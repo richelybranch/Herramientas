@@ -1,1 +1,3 @@
 RICHELY: MAÑANA ES MARTES UWU
+
+Paul: ¿Qué comando se utiliza para clonar un repositorio desde GitHub?
