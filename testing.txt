@@ -7,3 +7,5 @@ Paul: ¿Qué comando se utiliza para clonar un repositorio desde GitHub?
 >>>>>>> 0548edd8bb977e703637f4c33da1049732babf11
 
 RICHELY: git clone
+
+Paul:¿Cómo puedes ver el historial de cambios en un repositorio?
