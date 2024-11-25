@@ -1,3 +1,9 @@
 RICHELY: MAÑANA ES MARTES UWU
 
+<<<<<<< HEAD
 RICHELY: PREGUNTA 1
+=======
+Paul: ¿Qué comando se utiliza para clonar un repositorio desde GitHub?
+>>>>>>> 0548edd8bb977e703637f4c33da1049732babf11
+
+Richely: git clone
