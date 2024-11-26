@@ -11,3 +11,5 @@ RICHELY: git clone
 Paul:¿Cómo puedes ver el historial de cambios en un repositorio?
 
 RICHELY: git log
+
+Paul:¿Qué comando se usa para agregar archivos al área de preparación (staging)?
