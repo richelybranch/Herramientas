@@ -15,3 +15,5 @@ RICHELY: git log
 Paul:¿Qué comando se usa para agregar archivos al área de preparación (staging)?
 
 RICHELY: git add
+
+PAUL:¿Qué comando se usa para confirmar (commit) los cambios en el repositorio?
