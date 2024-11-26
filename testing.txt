@@ -17,3 +17,5 @@ Paul:¿Qué comando se usa para agregar archivos al área de preparación (stagi
 RICHELY: git add
 
 PAUL:¿Qué comando se usa para confirmar (commit) los cambios en el repositorio?
+
+Richely:git commit -m "Mensaje del commit"
