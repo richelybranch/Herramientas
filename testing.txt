@@ -19,3 +19,5 @@ RICHELY: git add
 PAUL:¿Qué comando se usa para confirmar (commit) los cambios en el repositorio?
 
 Richely:git commit -m "Mensaje del commit"
+
+PAUL:¿Cómo verificas el estado actual de tu repositorio y los cambios pendientes?
